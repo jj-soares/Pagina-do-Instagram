@@ -10,7 +10,7 @@
 
 <div align="center">
    <img src="./img/gif insta.gif">
-   <img src="./img/pag insta.JPG">
+
 </div>
    
    
@@ -29,7 +29,7 @@
 ## On ✔
      
      
-   <p> Esse e um projeto de recriação da pagina inicial de login do Instagram </p>
+   <p>This is a project to recreate the Instagram login home page </p>
    
    
    
@@ -37,7 +37,7 @@
    
 ## Roadmap 🗺 
    
-   <p> Fiz esse projeto com intuito de praticar minha habilidades com HTML e CSS, e tambem para entregar como projeto do curso da DIO (Digital Innovatuion One)! </p>
+   <p> I made this project in order to practice my skills with HTML and CSS, and also to deliver as a course project for DIO (Digital Innovatuion One)! </p>
    
    
 ## Technologies 🚀
